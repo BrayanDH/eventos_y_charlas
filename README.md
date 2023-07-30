@@ -9,7 +9,9 @@ En este repositorio, encontrarás información sobre mis exposiciones y presenta
 
 *Fecha de la Presentación:* [22/07/2023]
 
-*Enlace a los Recursos:* [[Jupyter notebook]](https://github.com/BrayanDH/eventos_y_charlas/blob/main/google_io_trinidad/presentacion.ipynb)
+*Enlace de la presentacion:* [[Link]](https://github.com/BrayanDH/eventos_y_charlas/blob/main/google_io_trinidad/presentacion.ipynb)
+
+*Presentación en yt:* [[Link]](https://www.youtube.com/watch?v=6bRv1KZEy5g)
 
 ---
 
