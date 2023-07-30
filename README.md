@@ -4,7 +4,7 @@ En este repositorio, encontrarás información sobre mis exposiciones y presenta
 
 ## Google I/O - Trinidad Santa Barbara
 
-- **Título de la Presentación:** ¿Como iniciar a programar en python y colab ?.
+- **Título de la Presentación:** ¿Como iniciar a programar en python y colab?.
 - **Descripción:**  En esta presentación, exploraremos los conceptos básicos de la programación utilizando el lenguaje de programación Python y la plataforma colaborativa de Google, Google Colab. Esta charla está dirigida a principiantes y personas interesadas en dar sus primeros pasos en el mundo de la programación.
 
 *Fecha de la Presentación:* [22/07/2023]
